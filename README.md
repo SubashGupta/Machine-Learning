@@ -1,1 +1,1 @@
-# Machine-Learning-Hackathons
+# Machine-Learning
